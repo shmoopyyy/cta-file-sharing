@@ -39,24 +39,3 @@
     color: #000000;
 }
 
-#user-input-wrapper {
-    position: fixed;
-    bottom: 10px;
-}
-
-#textID {
-    height: 35px;
-    width: 320px;
-    margin-top: 25px;
-    line-height: 30px;
-    border-radius: 20px
-}
-
-#selectID {
-    text-align: center;
-    font-family: sans-serif;
-    height: 35px;
-    width: 320px;
-    margin-top: 25px;
-    border-radius: 20px;    
-}
